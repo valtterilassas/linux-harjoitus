@@ -1,2 +1,3 @@
-# h1 - Linux asennus raportti
-a) 
+# h1 - Linux kotityöt
+a) my first task was
+
