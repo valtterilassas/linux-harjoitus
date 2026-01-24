@@ -1,0 +1,5 @@
+# h2 Komentaja Pinviini
+
+x) Artikkelissa opetetaan komentoja, joita käytetään linuxin command linessa.
+
+a) 
