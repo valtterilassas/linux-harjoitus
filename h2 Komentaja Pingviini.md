@@ -40,6 +40,7 @@ e)
 <img width="305" height="38" alt="pipe-komento" src="https://github.com/user-attachments/assets/9b32f38a-f00d-40dd-8484-f54fb2b0ac6d" /> 
 
 f) 
-en saanut toimimaan. 
 
+
+<img width="397" height="194" alt="listhardware" src="https://github.com/user-attachments/assets/854b53ca-ec74-4585-8eb0-7ec585d86e2f" />
 
